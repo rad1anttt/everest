@@ -58,5 +58,23 @@
 .order p{
     background-image: url(/img/Vector\ \(7\).png);
     background-repeat: no-repeat;
+    display: flex;
+    font-size: 18px;
+    font-family: 'Onest';
+}
+.catalog {
+    width: 424px;
+    height: 480px;
+}
+.enamel{
+    margin-left: 300px;
+}
+.enamel img{
+    width: 100px;
+    padding: 15px;
+}
+.grid{
+    background-color: #e8eff5;
     
 }
+
